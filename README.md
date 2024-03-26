@@ -7,6 +7,10 @@
 
 해당 repo는 LangChain과 ChromaDB를 활용하여 대화를 가능하게 합니다. 
 
+# 3등 수상 
+![image](https://github.com/kimfunn/2023-Corning-AI-Challenge/assets/54879393/b832ac3e-e9a9-4a1e-a658-1dba0fb42b7f)
+
+
 ## 📖 How it Works
 
 아래 그림은 **ClosedAI-chatbot**가 작동하는 과정을 보여줍니다. 사용자 질의와 관련한 문서들은 청킹(chunking)되어 ChromaDB에 임베딩 형태로 저장됩니다. ClosedAI-chatbot은 사용자의 질의에 대해 관련 문서를 기반으로 답변을 반환합니다.
